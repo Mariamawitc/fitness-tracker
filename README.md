@@ -1,4 +1,24 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Fitness and Nutrition Tracking App
+
+A comprehensive cloud-based application for tracking fitness activities and nutrition, providing personalized workout plans and dietary advice.
+
+## Technology Stack
+
+### Frontend
+- Next.js 14 with TypeScript
+- TailwindCSS for styling
+- NextAuth.js for authentication
+
+### Backend & Cloud Infrastructure
+- MongoDB Atlas (Free Tier) for database
+- Vercel Serverless Functions (included with Next.js)
+- Cloudinary (Free Tier) for image and media storage
+- Vercel Edge Network for content delivery
+
+### APIs and Services
+- USDA Food Database API (Free, no API key required)
+- NextAuth.js for authentication with Google/GitHub
+- Hugging Face Inference API (Free) for AI recommendations
 
 ## Getting Started
 
