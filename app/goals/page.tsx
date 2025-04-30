@@ -60,3 +60,4 @@ export default function GoalsPage() {
       <GoalList ref={listRef} />
     </div>
   );
+}
